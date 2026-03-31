@@ -35,11 +35,19 @@ Cadre ontologique explorant les dynamiques qualitatives de l'existence, de la co
 
 | Repo | Description |
 |------|-------------|
-| [chambre](https://github.com/Virgil-LIBRIA/chambre) | Chambre Reverberante — moteur de resonance semantique |
+| [chambre](https://github.com/Virgil-LIBRIA/chambre) | Chambre Reverberante — moteur de resonance semantique (Go + spaCy) |
+| [claude-md-viewer](https://github.com/Virgil-LIBRIA/claude-md-viewer) | Navigateur HTML zero-dependance pour fichiers .md Claude Code |
+
+### Projets
+
+| Repo | Description |
+|------|-------------|
+| [PolyFlex](https://github.com/Virgil-LIBRIA/PolyFlex) | Interfaces adaptatives multiplateforme (exploratoire, dec 2024) |
+| [ma-constellation-docs](https://github.com/Virgil-LIBRIA/ma-constellation-docs) | Prototype de site interactif — sommaire du livre de synthese (aout 2025) |
 
 ## Stack
 
-Python (stdlib), HTML/CSS/JS standalone, JSON comme format pivot. Pas de framework, pas de build. Les interfaces qui utilisent l'IA passent par l'API Anthropic ou Ollama.
+Python (stdlib), Go, HTML/CSS/JS standalone, JSON comme format pivot. Pas de framework, pas de build. Les interfaces qui utilisent l'IA passent par l'API Anthropic ou Ollama.
 
 ## Licence
 
