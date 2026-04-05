@@ -37,6 +37,7 @@ Cadre ontologique explorant les dynamiques qualitatives de l'existence, de la co
 |------|-------------|
 | [chambre](https://github.com/Virgil-LIBRIA/chambre) | Chambre Reverberante — moteur de resonance semantique (Go + spaCy) |
 | [memoire-cinetique](https://github.com/Virgil-LIBRIA/memoire-cinetique) | Memoire Cinetique — couche memoire persistante locale (Mem0 + Ollama + MCP) |
+| [pz-pilotage](https://github.com/Virgil-LIBRIA/pz-pilotage) | Infrastructure de pilotage — scans Diabole, messagerie Capsule, processus par renforcement |
 | [claude-md-viewer](https://github.com/Virgil-LIBRIA/claude-md-viewer) | Navigateur HTML zero-dependance pour fichiers .md Claude Code |
 
 ### Projets
