@@ -40,6 +40,12 @@ Cadre ontologique explorant les dynamiques qualitatives de l'existence, de la co
 | [pz-pilotage](https://github.com/Virgil-LIBRIA/pz-pilotage) | Infrastructure de pilotage — scans Diabole, messagerie Capsule, processus par renforcement |
 | [claude-md-viewer](https://github.com/Virgil-LIBRIA/claude-md-viewer) | Navigateur HTML zero-dependance pour fichiers .md Claude Code |
 
+### Produits
+
+| Repo | Description |
+|------|-------------|
+| [intemple-prompts](https://github.com/Virgil-LIBRIA/intemple-prompts) | [INTemple Prompts](https://virgil-libria.github.io/intemple-prompts/) — architecture cognitive structuree pour LLM |
+
 ### Projets
 
 | Repo | Description |
