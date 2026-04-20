@@ -45,6 +45,7 @@ Cadre ontologique explorant les dynamiques qualitatives de l'existence, de la co
 | Repo | Description |
 |------|-------------|
 | [intemple-prompts](https://github.com/Virgil-LIBRIA/intemple-prompts) | [INTemple Prompts](https://virgil-libria.github.io/intemple-prompts/) — architecture cognitive structuree pour LLM |
+| [souterrain-gumroad](https://github.com/Virgil-LIBRIA/souterrain-gumroad) | Souterrain — framework multi-agent file-based pour Claude Code (vitrine open source partielle du produit Gumroad) |
 
 ### Projets
 
